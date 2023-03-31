@@ -1,9 +1,3 @@
-/*
- * Copyright 2023 Apple, Inc
- * Apple Internal Use Only
- */
-
-
 package com.example.speakingClock.speakingClock.service.util;
 
 import static org.junit.Assert.*;
